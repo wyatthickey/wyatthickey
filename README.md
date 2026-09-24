@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wyatt! <br/><a href="https://www.linkedin.com/in/wyatt-hickey-a02a6326a/">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Wyatte! <br/><a href="https://www.linkedin.com/in/wyatt-hickey-a02a6326a/">Aspiring Cybersecurity Professional</a></h1>
 
 ## 👨‍💻 Cybersecurity Home Lab Projects
 
